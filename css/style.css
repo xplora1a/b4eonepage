@@ -62,7 +62,6 @@ h3,
 h4,
 h5 {
   font-family: 'Montserrat', sans-serif;
-  text-transform: uppercase;
   color: #111111;
   margin-top: 0;
   margin: 0;
@@ -287,7 +286,6 @@ footer p {
 .banner-area p {
   color: #fff;
   font-size: 24px;
-  text-transform: capitalize;
   margin-bottom: 30px;
 }
 @media only screen and (max-width: 479px) {
@@ -307,7 +305,6 @@ footer p {
 .banner-title {
   font-size: 60px;
   font-weight: 700;
-  text-transform: uppercase;
   line-height: 72px;
   color: #fff;
   -webkit-text-shadow: 0px 5px 10px #36465d;
@@ -400,6 +397,10 @@ footer p {
   -webkit-box-shadow: 0 0 0 transparent;
   -moz-box-shadow: 0 0 0 transparent;
   box-shadow: 0 0 0 transparent;
+}
+
+.mc_embed_signup .mc-field-group {
+  margin: 10px 0;
 }
 
 /*=== 3. MODAL ===*/
