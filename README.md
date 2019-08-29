@@ -1,5 +1,5 @@
 # b4e-onpage-theme
-A complete one page theme for berkshire for Europe webpage
+A complete one page theme for Berkshire for Europe webpage
 Used Sass as a preproccesor.
 Based on: <a href="https://md-saad.github.io/portfolio-theme/" target="_blank">Portfolio Theme</a>
 
