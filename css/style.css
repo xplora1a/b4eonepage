@@ -484,11 +484,11 @@ footer p {
   color: #0084b4;
   border: 1px solid #0084b4;
 }
-.social-icons a.google {
+.social-icons a.youtube {
   color: #d6513e;
   border: 1px solid #d6513e;
 }
-.social-icons a.github {
+.social-icons a.b4e-more {
   color: #24292E;
   border: 1px solid #24292E;
 }
@@ -764,7 +764,12 @@ footer p {
 .mc-input:checkbox{-webkit-appearance:checkbox;}
 .mc-input:radio{-webkit-appearance:radio;}
 .mc-input:focus {border-color:#333;}
-.mc-button {clear:both; background-color: #aaa; border: 0 none; border-radius:4px; transition: all 0.23s ease-in-out 0s; color: #FFFFFF; cursor: pointer; display: inline-block; font-size:15px; font-weight: normal; height: 32px; line-height: 32px; margin: 0 5px 10px 0; padding: 0 22px; text-align: center; text-decoration: none; vertical-align: top; white-space: nowrap; width: auto;}
+.mc-button {clear:both; background-color: #00C5CB; border: 0 none;
+border-radius:4px; transition: all 0.23s ease-in-out 0s; color: #FFFFFF; cursor:
+pointer; display: inline-block; font-size:17px; font-weight: normal; height:
+32px; line-height: 32px; margin: 0 5px 10px 0; padding: 0 22px; text-align:
+center; text-decoration: none; vertical-align: top; white-space: nowrap; width:
+auto;}
 .mc-button:hover {background-color:#777;}
 .mc-small-meta {font-size: 11px;}
 .nowrap {white-space:nowrap;}
