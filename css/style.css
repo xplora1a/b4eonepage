@@ -162,7 +162,7 @@ section:nth-child(even) {
 }
 
 .navbar-main {
-  background-color: transparent;
+  background-color: #f8f8f8;
   border-bottom: 1px solid #1a1a1a;
 }
 @media only screen and (min-width: 480px) and (max-width: 767px) {
