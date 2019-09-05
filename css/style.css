@@ -162,7 +162,7 @@ section:nth-child(even) {
 }
 
 .navbar-main {
-  background-color: #f8f8f8;
+  background-color: #ffffff9c;
   border-bottom: 1px solid #1a1a1a;
 }
 @media only screen and (min-width: 480px) and (max-width: 767px) {
@@ -184,7 +184,7 @@ section:nth-child(even) {
   height: 50px;
 }
 .navbar-main .navbar-nav li a {
-  color: #fff;
+  color: #2f0ed2;
   font-size: 14px;
   text-transform: uppercase;
   font-weight: 600;
