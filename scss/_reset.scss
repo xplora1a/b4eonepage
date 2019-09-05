@@ -9,9 +9,9 @@ body {
   font-family: 'Montserrat', sans-serif;
   font-size: 12px;
   line-height: 18px;
-  color: #373737;
+  color: $text-color;
   font-weight: 300;
-  background: $dark-bg;
+  background: $light-bg;
 }
 
 ul {
