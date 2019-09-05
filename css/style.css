@@ -761,7 +761,7 @@ footer p {
 .mc-form {display:block; position:relative; text-align:left; padding:10px 0 10px 3%}
 .mc-h2 {font-weight:bold; padding:0; margin:15px 0; font-size:1.4em;}
 .mc-input {border: 1px solid #ABB0B2; -webkit-border-radius: 3px; -moz-border-radius: 3px; border-radius: 3px;}
-.mc-input:checkbox{-webkit-appearance:checkbox;}
+/*.mc-input:checkbox{-webkit-appearance:checkbox;} */
 .mc-input:radio{-webkit-appearance:radio;}
 .mc-input:focus {border-color:#333;}
 .mc-button {clear:both; background-color: #00C5CB; border: 0 none;
