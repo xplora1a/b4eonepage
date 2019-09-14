@@ -266,6 +266,9 @@ footer p {
   background-position: center 0px;
   padding: 0;
 }
+.banner-area-bracknell {
+  background-image: url("../images/banner/Bracknell-Flag-wide.svg");
+}
 .banner-area .banner-wrapper {
   position: absolute;
   width: 100%;
